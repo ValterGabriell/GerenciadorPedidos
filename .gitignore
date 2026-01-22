@@ -1,0 +1,15 @@
+/GerenciadorDePedidos.Core.Application/bin
+/GerenciadorDePedidos.Core.Application/obj
+/GerenciadorDePedidos.Core.CrossCutting/bin
+/GerenciadorDePedidos.Core.CrossCutting/obj
+/GerenciadorDePedidos.Core.Domain/bin
+/GerenciadorDePedidos.Core.Domain/obj
+/GerenciadorDePedidos.Core.Dto/bin
+/GerenciadorDePedidos.Core.Dto/obj
+/GerenciadorDePedidos.Core.Exceptions/obj
+/GerenciadorDePedidos.Core.Library/bin
+/GerenciadorDePedidos.Core.Library/obj
+/GerenciadorDePedidos.Core.Repository/bin
+/GerenciadorDePedidos.Core.Repository/obj
+/GerenciadorDePedidos.Core.Testes/bin
+/GerenciadorDePedidos.Core.Testes/obj
